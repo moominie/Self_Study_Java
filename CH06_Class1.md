@@ -270,9 +270,9 @@ public class StudentExample {
 
 1. 라이브러리(API : Application Program Interface)용 클래스
 
-​		객체 생성 및 메소드 제공 역할
+   객체 생성 및 메소드 제공 역할
 
-​		(예시) Student.java
+   (예시) Student.java
 
 2. 실행용 클래스
 
