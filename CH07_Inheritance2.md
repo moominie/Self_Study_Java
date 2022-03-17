@@ -617,7 +617,7 @@ public class ChildExample {
 
 ### 07-2-5. 객체 타입 확인
 
-###### instance 연산자
+###### instanceof 연산자
 
 어떤 객체가 어떤 클래스의 인스턴스인지 확인하기 위해 사용하는 연산자  
 
